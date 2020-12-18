@@ -1,0 +1,721 @@
+Lynda.com Certifications
+
+
+Name
+Angular 2 Essential Training
+Issuing authority
+Lynda.com
+Issue Date
+Nov 2016
+No Expiration Date
+Credential ID
+9440BF
+Credential URL
+https://www.lynda.com/AngularJS-tutorials/Angular-2-Essential-Training/540347-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+Angular2 for .NET Developers
+Issuing authority
+Lynda.com
+Issued Nov 2016
+No Expiration Date
+Credential ID
+43B4CC
+Credential URL
+https://www.lynda.com/AngularJS-tutorials/Angular2-NET-Developers/500547-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+
+Name
+Bookkeeping
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016 
+No Expiration Date
+Credential ID
+D85ABC
+Credential URL
+https://www.lynda.com/Business-Finance-tutorials/Bookkeeping/371328-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Business Analysis Fundamentals
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+EDC625
+Credential URL
+https://www.lynda.com/Business-Skills-tutorials/Business-Analysis-Fundamentals/156546-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Up and Running with C
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Jul 2016No Expiration Date
+Credential IdentifierCredential ID 9E1F2C
+https://www.lynda.com/ViewCertificate/9E1F2CED82784CA8BD9C12B18CB11677?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+Up and Running with C#
+Issuing authority
+Lynda.com
+Issued Dec 2016
+No Expiration Date
+Credential ID 4FB5D4
+Credential URL
+https://www.lynda.com/C-tutorials/Up-Running-C/164452-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+C# Delegates, Events, and Lambdas
+Issuing authority
+Lynda.com
+Issued Dec 2016
+No Expiration Date
+Credential IdentifierCredential ID 
+8DF243
+Credential URL
+https://www.lynda.com/C-tutorials/C-Delegates-Events-Lambdas/370499-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+C# Essential Training
+Issuing authority
+Lynda.com
+Issued
+Jul 2016
+No Expiration Date
+Credential ID
+B43C16
+Credential URL
+https://www.lynda.com/ViewCertificate/B43C16EDEAED4F4F91CF8F71E8F86A73?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+C# with .NET Programming
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 178DE1
+https://www.lynda.com/NET-tutorials/C-NET-Programming/440660-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+C# 6.0 First Look
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+5952E7
+Credential URL
+https://www.lynda.com/C-tutorials/C-6-0-First-Look/397759-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+LINQ with C# Essential Training
+Issuing authority
+Lynda.com
+Issued Dec 2016
+No Expiration Date
+Credential ID
+1E2F89
+Credential URL
+https://www.lynda.com/LINQ-tutorials/LINQ-C-Essential-Training/397357-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Certified Programmer
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+-
+Credential URL
+http://www.lynda.com/learning-paths/Developer/become-a-programmer?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Business Valuation
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+D35DD7
+Credential URL
+https://www.lynda.com/Accounting-tutorials/Business-Valuation-Fundamentals/428722-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Identify Sales Growth Opportunities
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+CB6454
+Credential URL
+https://www.lynda.com/Business-Skills-tutorials/Identify-Sales-Growth-Opportunities/460440-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+
+Name 
+International Marketing Fundamentals
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+61387C
+Credential URL
+https://www.lynda.com/Content-Marketing-tutorials/International-Marketing-Fundamentals/192458-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Measure Salesforce Effectiveness
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+C46FF3
+Credential URL
+https://www.lynda.com/Business-Skills-tutorials/Measure-Salesforce-Effectiveness/460443-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Learn Salesforce: The Basics
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+704A82
+Credential URL
+https://www.lynda.com/Salesforce-tutorials/Learn-Salesforce-Basics/513603-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Foundations of Programming: Refactoring Code
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016 
+No Expiration Date
+Credential ID
+16E9F1
+Credential URL
+https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Refactoring-Code/122457-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Foundations of Programming: Software Quality Assurance
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+DC90D0
+Credential URL
+https://www.lynda.com/Developer-Programming-Foundations-tutorials/Foundations-Programming-Software-Quality-Assurance/126119-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Using the Time Value of Money to Make Financial Decisions
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+December 2016
+No Expiration Date
+Credential ID
+6ED707
+Credential URL
+https://www.lynda.com/Business-Accounting-tutorials/Using-Time-Value-Money-Make-Financial-Decisions/188212-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Global Strategy
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+November 2016
+No Expiration Date
+Credential ID
+BA2DD8
+Credential URL
+https://www.lynda.com/Business-Skills-tutorials/Global-Strategy/373562-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+
+Name 
+Java Essential Training
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+November 2016
+No Expiration Date
+Credential ID
+092AE3
+Credential URL
+https://www.lynda.com/Java-tutorials/Java-Essential-Training/377484-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Perl 5 Essential Training
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+November 2016 
+No Expiration Date
+Credential ID
+31EB9D
+Credential URL
+https://www.lynda.com/Perl-tutorials/Perl-5-Essential-Training-Revision/447321-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Ruby Essential Training
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+November 2016
+No Expiration Date
+Credential ID
+DB5B7F
+Credential URL
+https://www.lynda.com/Ruby-tutorials/essential-training/47905-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Learning Meteor Application Development
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+October 2016
+No Expiration Date
+Credential ID
+E579C6
+Credential URL
+https://www.lynda.com/Meteor-tutorials/Learning-Meteor-Application-Development/521232-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Getting Started with ColdFusion 10
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+August 2016
+No Expiration Date
+Credential ID
+BA113B
+Credential URL
+https://www.lynda.com/ViewCertificate/BA113B4056154800B36DF1E9E9590789?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Cocoa with Swift Essential Training
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+November 2016 
+No Expiration Date
+Credential ID
+CA87A4
+Credential URL
+https://www.lynda.com/Cocoa-tutorials/Cocoa-Swift-Essential-Training/182675-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Crystal Reports 2013 Essential Training
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+September 2016
+No Expiration Date
+Credential ID
+CD88D0
+Credential URL
+https://www.lynda.com/ViewCertificate/CD88D0ACD11E49209CC9D30A3C7BA630?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name 
+Digital Leadership
+Issuing Organization 
+Lynda.com
+This credential does not expire
+Issue Date
+September 2016
+No Expiration Date
+Credential ID
+488610
+Credential URL
+https://www.lynda.com/Leadership-tutorials/Charlene-Li-Digital-Leadership/493951-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+Strategic Negotiation
+Issuing authority
+Lynda.com
+Issued Dec 2016
+No Expiration Date
+Credential ID
+E130CA
+Credential URL
+https://www.lynda.com/Business-Skills-tutorials/Strategic-Negotiation/376381-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+Implementing a Data Warehouse with Microsoft SQL Server 2012
+Issuing authority
+Lynda.com
+Issued Sep 2016
+No Expiration Date
+Credential ID
+EC999E
+Credential URL
+https://www.lynda.com/SQL-Server-tutorials/Implementing-Data-Warehouse-Microsoft-SQL-Server-2012/156150-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+Microsoft Business Intelligence Stack Fundamentals
+Issuing authority
+Lynda.com
+Issued Sep 2016
+No Expiration Date
+Credential ID
+32316E
+Credential URL
+https://www.lynda.com/Excel-tutorials/Microsoft-Business-Intelligence-Stack-Fundamentals/169623-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Name
+Microsoft Business Intelligence Stack in Depth
+Lynda.com
+Issued Sep 2016
+No Expiration Date
+Credential ID
+FED1F1
+Credential URL
+https://www.lynda.com/Excel-tutorials/Microsoft-Business-Intelligence-Stack-Depth/172384-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+
+CompTIA Security+ (SY0-401) Cert Prep: Compliance and Operational Security
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2017No Expiration Date
+Credential IdentifierCredential ID 75261BEE1AAD4F429A2A0D28BA1ED5CC
+ 
+ Lynda.com
+Installing and Administering Atlassian Confluence
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Feb 2017No Expiration Date
+Credential IdentifierCredential ID B7F8C50286734724AE847A1A1D00D8BD
+
+ Lynda.com
+Running a Profitable Business: Understanding Financial Ratios
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Dec 2016No Expiration Date
+Credential IdentifierCredential ID 338598
+https://www.lynda.com/Business-Skills-tutorials/Running-Profitable-Business-Understanding-Financial-Ratios/174916-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Supply Chain Management Fundamentals
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Dec 2016No Expiration Date
+Credential IdentifierCredential ID EFD64B
+https://www.lynda.com/Business-Skills-tutorials/Supply-Chain-Management-Fundamentals/181730-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Up and Running with Git and GitHub
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Dec 2016No Expiration Date
+Credential IdentifierCredential ID 9F38BF
+https://www.lynda.com/Git-tutorials/Up-Running-Git-GitHub/409275-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Managerial Economics
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Nov 2016No Expiration Date
+Credential IdentifierCredential ID 8CF281
+https://www.lynda.com/Accounting-tutorials/Managerial-Economics/492723-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Financial Literacy: Reading Financial Reports
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID B4CA71
+https://www.lynda.com/Business-Finance-tutorials/Financial-Literacy-Reading-Financial-Reports/135826-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Introduction to Information Governance
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID EB3186
+https://www.lynda.com/Enterprise-Content-Management-tutorials/Information-Governance-Essentials/418857-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Managerial Accounting
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID AB4CFE
+https://www.lynda.com/Business-Accounting-tutorials/Managerial-Accounting/368916-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Critical Thinking
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 66F094
+https://www.lynda.com/Business-Skills-tutorials/Critical-Thinking/424116-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Finance Fundamentals
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID C034AD
+https://www.lynda.com/Business-Accounting-tutorials/Finance-Fundamentals/174917-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Visual Basic Essential Training
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 469D63
+https://www.lynda.com/Visual-Basic-tutorials/Visual-Basic-Essential-Training/114902-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Managing Project Communication
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 5FA928
+https://www.lynda.com/Business-Skills-tutorials/Managing-Project-Communication/149841-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Foundations of IT Security: Core Concepts
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Jun 2016No Expiration Date
+Credential IdentifierCredential ID 040B25
+https://www.lynda.com/ViewCertificate/040B257FCC8A467699F3175A70E834C0?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Foundations of Programming: Databases
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Jun 2016No Expiration Date
+Credential IdentifierCredential ID D5BEF8
+https://www.lynda.com/ViewCertificate/D5BEF852452247FCB1B9A7317EE5A66E?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Agile at Work: Building Your Agile Team
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 24AED2
+https://www.lynda.com/Business-Skills-tutorials/Agile-Work-Building-Your-Agile-Team/175073-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Agile at Work: Driving Productive Agile Meetings
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 6FF6C6
+https://www.lynda.com/Business-Skills-tutorials/Agile-Work-Driving-Productive-Agile-Meetings/175075-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Agile at Work: Planning with Agile User Stories
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID F7F890
+https://www.lynda.com/Business-Skills-tutorials/Agile-Work-Planning-Agile-User-Stories/175074-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Agile at Work: Reporting with Agile Charts and Boards
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 0EF96F
+https://www.lynda.com/Business-Skills-tutorials/Agile-Work-Reporting-Agile-Charts-Boards/175962-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Up and Running with ECMAScript 6
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Nov 2016No Expiration Date
+Credential IdentifierCredential ID AACFBE
+https://www.lynda.com/JavaScript-tutorials/Up-Running-ECMAScript-6/424003-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Foundations of Programming: Databases
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Jun 2016No Expiration Date
+Credential IdentifierCredential ID D5BEF8
+https://www.lynda.com/ViewCertificate/D5BEF852452247FCB1B9A7317EE5A66E?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Foundations of Programming: Object-Oriented Design
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Oct 2016No Expiration Date
+Credential IdentifierCredential ID 7617BA
+https://www.lynda.com/Java-tutorials/Foundations-Programming-Object-Oriented-Design/96949-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Customizing Bootstrap 3 with LESS
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2016No Expiration Date
+Credential IdentifierCredential ID 0F6407
+http://www.lynda.com/ViewCertificate/0F6407295F524694BBA3872C08DC66B4?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+MySQL Essential Training
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2016No Expiration Date
+Credential IdentifierCredential ID 848D46
+http://www.lynda.com/ViewCertificate/848D460F12A943A58386DD82A7B0331F?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+WordPress Workflows
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2016No Expiration Date
+Credential IdentifierCredential ID 8A9E86
+https://www.lynda.com/ViewCertificate/8A9E86A39800410CAB89F419351D9EED?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+jQuery Essential Training
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2016No Expiration Date
+Credential IdentifierCredential ID 44E71D
+http://www.lynda.com/ViewCertificate/44E71DAD167943AA948EBE477FB29EEE?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+JavaScript for Web Designers
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Feb 2016No Expiration Date
+Credential IdentifierCredential ID F1AC83
+https://www.lynda.com/ViewCertificate/F1AC83C8398B438085A836E32CCC210A?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Foundations of Graphic Design History
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Dec 2015No Expiration Date
+Credential IdentifierCredential ID 853D76
+https://www.lynda.com/ViewCertificate/853D7682162945AFB2E08B1E85F6CCF5?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Bootstrap 3 Essential Training
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Nov 2015No Expiration Date
+Credential IdentifierCredential ID D7247E
+http://www.lynda.com/ViewCertificate/D7247E10F17940EBB2C1C26A6800EF52?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Sustainability Strategies
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID DA86CA
+https://www.lynda.com/Business-Skills-tutorials/Sustainability-Strategies/431182-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Design the Web: Responsive SVG Images
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Nov 2015No Expiration Date
+Credential IdentifierCredential ID AEE658
+http://www.lynda.com/ViewCertificate/AEE65887A42249FF9CC603EF715E84F5?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+WordPress Essential Training
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Nov 2015No Expiration Date
+Credential IdentifierCredential ID E8D70B
+http://www.lynda.com/ViewCertificate/E8D70B2B88A641D8849093C1A7DB75F9?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Building Resilience
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Aug 2015No Expiration Date
+Credential IdentifierCredential ID F68CDC
+https://www.lynda.com/ViewCertificate/F68CDC5E15374E05A4DA857DF8FB1142?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Competitive Strategy
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Aug 2015No Expiration Date
+Credential IdentifierCredential ID C89421
+https://www.lynda.com/ViewCertificate/C89421FC116A4D11B9B053693463D2D9?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Fundamentals of Logistics
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Aug 2015No Expiration Date
+Credential IdentifierCredential ID 5C694E
+https://www.lynda.com/ViewCertificate/5C694EA6101E4D7D8EC308D26C18AAAA?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Getting Things Done
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Aug 2015No Expiration Date
+Credential IdentifierCredential ID E3932C
+https://www.lynda.com/ViewCertificate/E3932CDBCC8F4E478D421D83E12F6928?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Leadership Insights from Dan Rockwell
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Aug 2015No Expiration Date
+Credential IdentifierCredential ID 1BDBE7
+https://www.lynda.com/ViewCertificate/1BDBE78F6837420D8031DC6E29126CFD?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Leading and Working in Teams
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Aug 2015No Expiration Date
+Credential IdentifierCredential ID 8176A8
+https://www.lynda.com/ViewCertificate/8176A8A9CF8E4C5AAA254AAF30B8F9D4?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Communicating across Cultures
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Jul 2015No Expiration Date
+Credential IdentifierCredential ID B1F391
+http://www.lynda.com/ViewCertificate/B1F391F8417741AF92BB93C9AB971708?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Disrupting Yourself
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued May 2015No Expiration Date
+Credential IdentifierCredential ID 3FAA5C
+https://www.lynda.com/ViewCertificate/3FAA5CB7294345FBBDB5DE2490E99AED?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Designing Database Solutions for SQL Server 2012
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID B95258
+https://www.lynda.com/SQL-Server-tutorials/Designing-Database-Solutions-SQL-Server-2012/186376-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+NoSQL for SQL Professionals
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 111642
+https://www.lynda.com/NoSQL-tutorials/NoSQL-SQL-Professionals/368756-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Querying Microsoft SQL Server 2012
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID DBAB11
+https://www.lynda.com/SQL-Server-tutorials/Querying-Microsoft-SQL-Server-2012/156769-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+SQL Server 2014 Essential Training
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 4C1377
+https://www.lynda.com/ViewCertificate/4C13773911584A238FD1D7285CB790D7?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+SQL Server Reporting Services in Depth
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID BD4733
+https://www.lynda.com/ViewCertificate/BD47333636D042599304394EF36288D0?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+SQL Server: Triggers, Stored Procedures, and Functions
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID 9C7F17
+https://www.lynda.com/ViewCertificate/9C7F175397AA4EB7A50668B328C9AB83?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Securing SQL Server 2012
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Sep 2016No Expiration Date
+Credential IdentifierCredential ID EC19BD
+https://www.lynda.com/SQL-Server-tutorials/Securing-SQL-Server-2012/137884-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Modeling Courageous Leadership: Intelligent Disobedience
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued May 2015No Expiration Date
+Credential IdentifierCredential ID 895F8D
+http://www.lynda.com/ViewCertificate/895F8D19F08B426188F503D1B48AD329?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+HTML5: Structure, Syntax, and Semantics
+Issuing authoritylynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2015No Expiration Date
+Credential IdentifierCredential ID 81CCC2
+http://www.lynda.com/HTML-tutorials/HTML5-Structure-Syntax-Semantics/182177-2.html?utm_source=cheetah&utm_medium=email&utm_campaign=linkedin-non
+
+Introducing the JavaScript Language
+Issuing authoritylynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Apr 2015No Expiration Date
+Credential IdentifierCredential ID C38564
+http://www.lynda.com/JavaScript-tutorials/Introducing-JavaScript-Language/123563-2.html?utm_source=cheetah&utm_medium=email&utm_campaign=linkedin-non
+
+Python 3 Essential Training
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Jun 2016No Expiration Date
+Credential IdentifierCredential ID 3BF5BB
+http://www.lynda.com/ViewCertificate/3BF5BB0193684705AA653A01052D5188?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Up and Running with Python and Django
+Issuing authorityLynda.com
+Issued date and, if applicable, expiration date of the certification or licenseIssued Jul 2016No Expiration Date
+Credential IdentifierCredential ID B80C07
+https://www.lynda.com/ViewCertificate/B80C076CFC144A9E93266000EB800112?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
+
+Mergers and Acquisitions
+Issuing authority
+LinkedIn
+Issued Dec 2016
+No Expiration Date
+Credential ID 74D8E6
+https://www.lynda.com/Business-Skills-tutorials/Mergers-Acquisitions-Fundamentals/180864-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate
